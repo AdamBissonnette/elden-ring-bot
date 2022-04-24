@@ -1,6 +1,8 @@
 # elden-ring-bot
 A bot to farm palace ledge with late game junk
 
+[Elden Ring Bot In Action](https://www.twitch.tv/videos/1465385743)
+
 ## Installation
 
 * python -m pip install requirements.txt
